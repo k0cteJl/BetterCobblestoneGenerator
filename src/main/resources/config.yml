@@ -1,0 +1,35 @@
+presets:
+    default:
+        cobblestone-generator:
+            upper-layer:
+                COAL_ORE:
+                    chance: 50
+                IRON_ORE:
+                    chance: 30
+                GOLD_ORE:
+                    chance: 15
+                DIAMOND_ORE:
+                    chance: 5
+            lower-layer:
+                DEEPSLATE_COAL_ORE:
+                    chance: 50
+                DEEPSLATE_IRON_ORE:
+                    chance: 30
+                DEEPSLATE_GOLD_ORE:
+                    chance: 15
+                DEEPSLATE_DIAMOND_ORE:
+                    chance: 5
+            default-upper: COBBLESTONE
+            default-lower: DEEPSLATE
+
+        basalt-generator:
+            COBBLESTONE:
+                chance: 70
+            STONE:
+                chance: 35
+            default: BASALT
+
+lower-layer-enabled: false
+lower-layer-height: -60
+
+current-preset: default

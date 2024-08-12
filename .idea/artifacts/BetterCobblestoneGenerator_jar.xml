@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BetterCobblestoneGenerator:jar">
+    <output-path>$USER_HOME$/Desktop/server/plugins</output-path>
+    <root id="archive" name="BetterCobblestoneGenerator.jar">
+      <element id="module-output" name="BetterCobblestoneGenerator" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk8/2.0.20-RC/kotlin-stdlib-jdk8-2.0.20-RC.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk7/2.0.20-RC/kotlin-stdlib-jdk7-2.0.20-RC.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/2.0.20-RC/kotlin-stdlib-2.0.20-RC.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

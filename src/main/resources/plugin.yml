@@ -1,0 +1,9 @@
+name: BetterCobblestoneGenerator
+version: '1.3'
+main: ru.k0cteJl.dev.betterCobblestoneGenerator.BetterCobblestoneGenerator
+api-version: '1.21'
+authors: [ k0cteJl ]
+description: 'A plugin that improves the cobblestone generator by adding new blocks'
+commands:
+  bettercg:
+    description: BetterCobblestoneGenerator command
